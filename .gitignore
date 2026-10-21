@@ -1,0 +1,5 @@
+/gpass
+/soma
+*.test
+*.out
+/dist/
